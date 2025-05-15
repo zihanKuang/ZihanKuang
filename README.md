@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Zihan, a Master's student in Software Engineering and Technology at Chalmers University of Technology, currently based in Gothenburg, Sweden. 
 
